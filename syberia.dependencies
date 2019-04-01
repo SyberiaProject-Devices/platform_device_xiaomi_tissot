@@ -40,11 +40,6 @@
    "branch"     : "lineage-16.0"
  },
  {
-   "repository" : "LineageOS/android_hardware_qcom_bootctrl",
-   "target_path": "hardware/qcom/bootctrl",
-   "branch"     : "lineage-16.0"
- },
- {
    "repository" : "syberia-project/platform_hardware_qcom_audio",
    "target_path": "hardware/qcom/audio-caf/msm8996",
    "branch"     : "9.0-caf-8996"
