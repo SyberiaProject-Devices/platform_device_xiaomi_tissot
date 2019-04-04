@@ -73,6 +73,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Updater
 
+# Properties
+-include device/xiaomi/tissot/prop.mk
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.goodix.sh \
