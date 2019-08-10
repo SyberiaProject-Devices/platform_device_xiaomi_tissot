@@ -15,11 +15,6 @@
    "branch"     : "pie"
  },
  {
-   "repository" : "BeastRoms/platform_vendor_MiuiCamera",
-   "target_path": "vendor/MiuiCamera",
-   "branch"     : "pie"
- },
- {
    "repository" : "LineageOS/android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
    "branch"     : "lineage-16.0"
